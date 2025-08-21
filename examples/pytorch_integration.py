@@ -278,7 +278,7 @@ def demo_performance_comparison():
 def main():
     """Run all PyTorch integration demos."""
     print("Quasicrystal Transformers (QTX) - PyTorch Integration Demo")
-    print("Author: Anoop (amazedsaint@gmail.com)")
+    print("Author: Anoop Madhusudanan (amazedsaint@gmail.com)")
     
     try:
         # Demo basic components

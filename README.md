@@ -5,7 +5,7 @@
 
 **Aperiodic Block-Sparse Attention and Aperiodic Positional Encoding from First Principles**
 
-By Anoop (amazedsaint@gmail.com)
+By Anoop Madhusudanan (amazedsaint@gmail.com)
 
 ## Abstract
 
@@ -104,7 +104,7 @@ The full research paper is available in [`docs/paper.md`](docs/paper.md), includ
 ```bibtex
 @article{qtx2024,
   title={Quasicrystal Transformers: Aperiodic Block-Sparse Attention and Aperiodic Positional Encoding from First Principles},
-  author={Anoop},
+  author={Anoop Madhusudanan},
   year={2024},
   url={https://github.com/amazedsaint/qtx}
 }
@@ -120,6 +120,6 @@ Contributions are welcome! Please see our contributing guidelines and open an is
 
 ## Contact
 
-- Author: Anoop
+- Author: Anoop Madhusudanan  
 - Email: amazedsaint@gmail.com
 - GitHub: [@amazedsaint](https://github.com/amazedsaint)

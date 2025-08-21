@@ -205,7 +205,7 @@ def demo_leap_tuning():
 def main():
     """Run all demos."""
     print("Quasicrystal Transformers (QTX) - Comprehensive Demo")
-    print("Author: Anoop (amazedsaint@gmail.com)")
+    print("Author: Anoop Madhusudanan (amazedsaint@gmail.com)")
     print("GitHub: github.com/amazedsaint/qtx")
     
     try:

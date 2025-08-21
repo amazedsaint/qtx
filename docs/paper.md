@@ -1,6 +1,6 @@
 # Quasicrystal Transformers: Aperiodic Block-Sparse Attention and Aperiodic Positional Encoding from First Principles
 
-**Author:** Anoop  
+**Author:** Anoop Madhusudanan  
 **Contact:** amazedsaint@gmail.com
 
 ---
